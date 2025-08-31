@@ -1,13 +1,6 @@
 # UndertaleModTool
 
-[![Underminers Discord](https://img.shields.io/discord/566861759210586112?label=Discord&logo=discord&logoColor=white)](https://discord.gg/hnyMDypMbN) [![GitHub](https://img.shields.io/github/license/UnderminersTeam/UndertaleModTool?logo=github)](https://github.com/UnderminersTeam/UndertaleModTool/blob/master/LICENSE.txt)
-
-(seeing such an amazing tool fills you with DETERMINATION.)
-
-Heya. I heard you like digging deep into GameMaker games like Undertale/Deltarune, so here's a tool just for you!
-
-![Flowey: Now YOU are the GOD of this world.](images/flowey.gif)
-
+Fork of UndertaleModTool tailored specifically towards use for GM3P.
 
 # Downloads
 
